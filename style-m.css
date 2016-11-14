@@ -22,14 +22,14 @@ html, body {
 }
 #sidebar1{
 	width: 20%;
-	height: 50%;
+	height: 40%;
 	float: left;
 	position: relative;
 	display: inline-block;
 }
 #content{
 	width: 80%;
-	height: 50%;
+	height: 40%;
 	background-color:#E99A4D;
 	position: relative;
     overflow-x:hidden;
